@@ -2,5 +2,8 @@
   "moduleName": "RonixExploit",
   "script_url": "https://raw.githubusercontent.com/wowoou2030/Heartina/refs/heads/main/main.lua",
   "disc_invite": "https://discord.gg/ronixstudios",
-  "versionName": "Android"
+  "versionName": "Android",
+  "active_versions": [
+    "2.702.0.622"
+  ]
 }
